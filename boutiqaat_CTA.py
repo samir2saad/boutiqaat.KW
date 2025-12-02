@@ -19,7 +19,7 @@ def main(link_url: str, caption: str, cta_text: str, header: str,conversationId:
     url = f"https://system.trypair.ai/v1/ai-agent/conversations/{conversationId}/messages/interactive"
 
     headers = {
-        "Authorization": "Bearer z5XAntXPnY+RLPVQyaNgCZNTArFtXq6mOf+7mHyh+CniMbD7G9ZuiTC2yhInIGPuJM+HoVB/NdEKNO1P31Y246nqwjP6KimXUt7igRibIgj4KQHpQLbkuQqhTRF6XTK9xyaipZFUOTGJotXfe/VckfiSgRFTx4wolQa8OGm2WecGkMOLrvaPqLPoomEYgg==",
+        "Authorization": "Bearer So+MR00BCG1dpI+EMkOiwDcQbBxUIxdcC9kwGof/zhc9vtyDtMAWpMqEs/fdzPMVCX2CBCe4dXo8J0nsLWGWOZwJnFe/UfSqJ7fqNjZ6Iq/1koVlRePxtwRa2mcbImN/0zwelBhcs4eJ32nSCqk1+IFb705/F3xT2BNNWPAZsK9DxNzi4Serm1gVxyr9CA==",
         "Content-Type": "application/json"
     }
 
