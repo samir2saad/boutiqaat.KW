@@ -1,7 +1,7 @@
 import requests
 import json
 
-def main(media_url:str, caption:str, conversationId:str, media_type:str ="image" ) -> dict:
+def main(media_url:str, caption:str, conversationId:str) -> dict:
     """
     Sends a media message with a caption to a conversation.
     
@@ -23,9 +23,9 @@ def main(media_url:str, caption:str, conversationId:str, media_type:str ="image"
 
     payload = {
   "media_url": media_url,
-  "media_type": media_type,
+  "media_type": "image",
   "caption": caption
-}
+    }
 
 
     try:

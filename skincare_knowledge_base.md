@@ -17,7 +17,7 @@
             "preference": null,
             "spf": "30-50",
             "makeup size": "50ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/0/0/008257-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359888494.jpg"
         },
         "Invisible_Photoderm_Max_Sunscreen": {
             "sku": "SC-00002336",
@@ -36,7 +36,7 @@
             "preference": "Oil-Free",
             "spf": "50-100",
             "makeup size": "40ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00009664-4.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359889866.jpg"
         }
     },
     "Lip Care": {
@@ -57,7 +57,7 @@
             "preference": "Anti-Oxidants",
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/2/9/292309-1_1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359890921.jpg"
         },
         "Instant_Light_Lip_Perfector": {
             "sku": "MU-00008903",
@@ -76,7 +76,7 @@
             "preference": "Shea Butter",
             "spf": null,
             "makeup size": "12ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00008903-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359891522.jpg"
         },
         "Leave_Behind_Lip_Balm": {
             "sku": "MU-00017516",
@@ -95,7 +95,7 @@
             "preference": "Natural Extracts, Ceramides",
             "spf": null,
             "makeup size": "3g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00017516-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359891913.jpg"
         },
         "Fat_Oil_Slick_Click_Lip_Balm": {
             "sku": "MU-00020110",
@@ -114,7 +114,7 @@
             "preference": "Essential Oils, Vegan",
             "spf": null,
             "makeup size": "2g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00020110-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359892397.jpg"
         },
         "Oh_My_Gloss_Butter_Me_Up_Lip_Balm": {
             "sku": "MU-00021091",
@@ -133,7 +133,7 @@
             "preference": "Vegan",
             "spf": null,
             "makeup size": "15ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00021091-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359893032.jpg"
         },
         "Candy_Glow_Tinted_Butter_Balm": {
             "sku": "MU-00022624",
@@ -152,7 +152,7 @@
             "preference": null,
             "spf": null,
             "makeup size": "3.1g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00022624-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359893512.jpg"
         }
     },
     "Face Care": {
@@ -173,7 +173,7 @@
             "preference": "Anti-Oxidants, Vitamin A, Vitamin C, Vitamin E",
             "spf": null,
             "makeup size": "150ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/3/8/385308-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359894104.jpg"
         },
         "Moisturizing_Cream_for_Dry_Skin": {
             "sku": "BAB-00001673",
@@ -192,7 +192,7 @@
             "preference": "Fragrance-Free",
             "spf": null,
             "makeup size": "454g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00001673-R2-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359894512.jpg"
         },
         "Whitening_Face_and_Neck_Scrub": {
             "sku": "BAB-00003897",
@@ -211,7 +211,7 @@
             "preference": null,
             "spf": null,
             "makeup size": "100ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00003897-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359895135.jpg"
         },
         "Atoderm_Cream": {
             "sku": "SC-00002300",
@@ -230,7 +230,7 @@
             "preference": null,
             "spf": null,
             "makeup size": "200ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00002300-R2-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359895665.jpg"
         },
         "Exfoliac_Deep_Cleansing_Mask": {
             "sku": "SC-00002882",
@@ -249,7 +249,7 @@
             "preference": null,
             "spf": null,
             "makeup size": "50ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/s/c/sc-00002882-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359896199.jpg"
         },
         "Collagen_Facial_Cleanser": {
             "sku": "SC-00004328",
@@ -268,7 +268,7 @@
             "preference": "Caviar, Collagen, Dermatologically Tested",
             "spf": null,
             "makeup size": "150ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00004328-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359896806.jpg"
         }
     },
     "Tools & Accessories": {
@@ -289,7 +289,7 @@
             "preference": null,
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/A/C/AC-00009679-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359897308.jpg"
         },
         "Aquarius_Sleep_Mask": {
             "sku": "HC-00006682",
@@ -308,7 +308,7 @@
             "preference": null,
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/H/C/HC-00006682-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359897887.jpg"
         }
     },
     "Body Care": {
@@ -329,7 +329,7 @@
             "preference": "100% Natural, Cruelty-Free, Paraben-Free, Sulfate-Free, Natural Extracts",
             "spf": null,
             "makeup size": "500g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00004375-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359899058.jpg"
         }
     },
         
@@ -351,7 +351,7 @@
             "preference": "Aloe Vera, Dermatologically Tested, Vitamin C",
             "spf": null,
             "makeup size": "15ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/s/c/sc-00003431-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359900100.jpg"
         }
     }
 }

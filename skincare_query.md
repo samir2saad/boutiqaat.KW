@@ -35,7 +35,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": "30-50",
             "makeup size": "50ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/0/0/008257-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359888494.jpg"
         },
         "Invisible_Photoderm_Max_Sunscreen": {
             "sku": "SC-00002336",
@@ -54,7 +54,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Oil-Free",
             "spf": "50-100",
             "makeup size": "40ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00009664-4.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359889866.jpg"
         }
     },
     "Lip Care": {
@@ -63,7 +63,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "type id": "simple",
             "name": "100% Natural Moisturising Colour Lip Tint - 3 Pack",
             "name-ar": "ملون ومرطب للشفاه طبيعي 100% - 3 حبات",
-            "Desc-En": "100% natural…not 99%! A Multi-Award winning formula famous for it’s long-lasting moisture.Tinted with plant pigments rich in natural antioxidants. Basically a superfood for you skin with no nasty chemicals for sexy tinted lips & bits!\nSet includes:\n1.Edible Red RadishA fresh coral shade for lips, cheeks, and eyelids\n2.Edible Sweet PotatoA beautiful natural pink shade for lips, cheeks, and eyelids\n3.Edible ElderberryA sexy burgundy shade for lips, cheeks, and eyelids",
+            "Desc-En": "100% natural…not 99%! A Multi-Award winning formula famous for it’s long-lasting moisture.Tinted with plant pigments rich in natural antioxidants. Basically a superfood for you skin with no nasty chemicals for sexy tinted lips &amp; bits!\nSet includes:\n1.Edible Red RadishA fresh coral shade for lips, cheeks, and eyelids\n2.Edible Sweet PotatoA beautiful natural pink shade for lips, cheeks, and eyelids\n3.Edible ElderberryA sexy burgundy shade for lips, cheeks, and eyelids",
             "Desc-Ar": "طبيعي 100%. يحتوي على تركيبة مرطبة طويلة الأمد حاصلة على العديد من الجوائز.تستمد لونها من صبغات نباتية طبيعية غنية بمضادات الأكسدة.يوفر التغذية الطبيعية للبشرة دون إضافة المواد الكيميائية الضارة\nتحتوي المجموعة على:\n1.ريد راديش صالح للأكللون كورال منعش للشفاه والخدود والجفون\n2.سويت بوتيتو صالح للأكللون زهري طبيعي جذاب للشفاه والخدود والجفون\n3.ايلدير بيري صالح للأكللون بورغندي ساحر للشفاه والخدود والجفون",
             "kw price": "KWD 12.0",
             "manufacturer": "Dr. Lipp",
@@ -75,7 +75,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Anti-Oxidants",
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/2/9/292309-1_1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359890921.jpg"
         },
         "Instant_Light_Lip_Perfector": {
             "sku": "MU-00008903",
@@ -94,7 +94,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Shea Butter",
             "spf": null,
             "makeup size": "12ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00008903-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359891522.jpg"
         },
         "Leave_Behind_Lip_Balm": {
             "sku": "MU-00017516",
@@ -113,7 +113,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Natural Extracts, Ceramides",
             "spf": null,
             "makeup size": "3g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00017516-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359891913.jpg"
         },
         "Fat_Oil_Slick_Click_Lip_Balm": {
             "sku": "MU-00020110",
@@ -132,7 +132,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Essential Oils, Vegan",
             "spf": null,
             "makeup size": "2g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00020110-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359892397.jpg"
         },
         "Oh_My_Gloss_Butter_Me_Up_Lip_Balm": {
             "sku": "MU-00021091",
@@ -151,7 +151,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Vegan",
             "spf": null,
             "makeup size": "15ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00021091-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359893032.jpg"
         },
         "Candy_Glow_Tinted_Butter_Balm": {
             "sku": "MU-00022624",
@@ -170,7 +170,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": "3.1g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/M/U/MU-00022624-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359893512.jpg"
         }
     },
     "Face Care": {
@@ -191,7 +191,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Anti-Oxidants, Vitamin A, Vitamin C, Vitamin E",
             "spf": null,
             "makeup size": "150ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/3/8/385308-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359894104.jpg"
         },
         "Moisturizing_Cream_for_Dry_Skin": {
             "sku": "BAB-00001673",
@@ -199,7 +199,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "name": "Moisturizing Cream for Dry Skin with Hyaluronic Acid - 454g",
             "name-ar": "كريم مرطب بحمض الهيالورونيك للبشرة الجافة - 454 غ",
             "Desc-En": "CeraVe Moisturizing Cream includes 3 essential ceramides that work together to lock in skin&#39;s moisture and help restore your skin&rsquo;s protective barrier. MVE technology encapsulates ceramides to ensure efficient delivery within the skin&rsquo;s barrier and slow release over time. Supporting your protective skin barrier, long after you&rsquo;ve finished applying. Developed with dermatologists and suitable for dry and very dry skin on the face and body, this rich, non-greasy, fast-absorbing moisturizing cream features CeraVa&#39;s patented MVE Delivery Technology to release a steady stream of moisturizing ingredients throughout the day and night. CeraVe Moisturizing Cream with ceramides is fragrance-free.\nFeatures:\n- Suitable for dry and very dry skin on the face and body\n- MVE Technology: This patented delivery system continually releases moisturizing ingredients for 24-hour hydration\n- Ceramides: Help restore and maintain the skin&rsquo;s natural barrier\n- Hyaluronic acid: Helps retain skin&rsquo;s natural moisture\n- Non-comedogenic, fragrance-free\n- Developed with dermatologists\nHow to Use:\n- Apply liberally as often as needed, or as directed by a physician",
-            "Desc-Ar": "كريم مرطب من سيرافي، يحتوي على 3 أنواع أساسية من السيراميد إضافة لحمض الهيالورونيك لترطيب البشرة بشكل فعال وحماية الحاجز الواقي للبشرة، كما بينما تعمل تكنولوجيا "ام في اي" على تغليف السيراميدات لتُعزز من سرعة تغلغلها في طبقات البشرة وتزيد من مدة احتفاظ البشرة بترطيبها، كما يدعم الكريم طبقة الوقاية حتى بعد مرور فترات طويلة من التطبيق بتركيبته المُطورة على أيدي اختصاصيي الجلدية لترطيب أنواع البشرة الجافة وشديدة الجفاف والتي تصلح للوجه والجسم. بقوامه الغني، غير الدهني وسريع التغلغل في البشرة، يوفر هذا الكريم نسب الترطيب المثالية للبشرة ليلاً ونهاراً كما انه خالي من أي روائح اصطناعية.\nالمزايا:\n- مناسب للبشرة الجافة والجافة جداً على الوجه والجسم\n- تقنية "ام في اي": تعمل هذه التقنية على مد البشرة بعناصر الترطيب بشكل مستمر، لترطيب يدوم لمدة 24 ساعة\n- السيراميد: يعمل على الحفاظ على غلاف البشرة الطبيعي\n- حمض الهيالورونيك: يحافظ على نسب الترطيب الطبيعية في البشرة\n- تركيبة لا تتسبب بانسداد المسامات، وخالية من الزيوت والعطور\n- تم تطوير التركيبة على أيدي خبراء الجلد\nالاستعمال:\n- يُطبق على البشرة عند الحاجة، أو تبعاً لإرشادات اختصاصيي الجلدية",
+            "Desc-Ar": "كريم مرطب من سيرافي، يحتوي على 3 أنواع أساسية من السيراميد إضافة لحمض الهيالورونيك لترطيب البشرة بشكل فعال وحماية الحاجز الواقي للبشرة، كما بينما تعمل تكنولوجيا &quot;ام في اي&quot; على تغليف السيراميدات لتُعزز من سرعة تغلغلها في طبقات البشرة وتزيد من مدة احتفاظ البشرة بترطيبها، كما يدعم الكريم طبقة الوقاية حتى بعد مرور فترات طويلة من التطبيق بتركيبته المُطورة على أيدي اختصاصيي الجلدية لترطيب أنواع البشرة الجافة وشديدة الجفاف والتي تصلح للوجه والجسم. بقوامه الغني، غير الدهني وسريع التغلغل في البشرة، يوفر هذا الكريم نسب الترطيب المثالية للبشرة ليلاً ونهاراً كما انه خالي من أي روائح اصطناعية.\nالمزايا:\n- مناسب للبشرة الجافة والجافة جداً على الوجه والجسم\n- تقنية &quot;ام في اي&quot;: تعمل هذه التقنية على مد البشرة بعناصر الترطيب بشكل مستمر، لترطيب يدوم لمدة 24 ساعة\n- السيراميد: يعمل على الحفاظ على غلاف البشرة الطبيعي\n- حمض الهيالورونيك: يحافظ على نسب الترطيب الطبيعية في البشرة\n- تركيبة لا تتسبب بانسداد المسامات، وخالية من الزيوت والعطور\n- تم تطوير التركيبة على أيدي خبراء الجلد\nالاستعمال:\n- يُطبق على البشرة عند الحاجة، أو تبعاً لإرشادات اختصاصيي الجلدية",
             "kw price": "KWD 9.84",
             "manufacturer": "CeraVe",
             "gender": "Women,Men",
@@ -210,7 +210,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Fragrance-Free",
             "spf": null,
             "makeup size": "454g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00001673-R2-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359894512.jpg"
         },
         "Whitening_Face_and_Neck_Scrub": {
             "sku": "BAB-00003897",
@@ -229,7 +229,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": "100ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00003897-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359895135.jpg"
         },
         "Atoderm_Cream": {
             "sku": "SC-00002300",
@@ -248,7 +248,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": "200ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00002300-R2-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359895665.jpg"
         },
         "Exfoliac_Deep_Cleansing_Mask": {
             "sku": "SC-00002882",
@@ -267,7 +267,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": "50ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/s/c/sc-00002882-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359896199.jpg"
         },
         "Collagen_Facial_Cleanser": {
             "sku": "SC-00004328",
@@ -286,7 +286,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Caviar, Collagen, Dermatologically Tested",
             "spf": null,
             "makeup size": "150ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00004328-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359896806.jpg"
         }
     },
     "Tools & Accessories": {
@@ -307,7 +307,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/A/C/AC-00009679-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359897308.jpg"
         },
         "Aquarius_Sleep_Mask": {
             "sku": "HC-00006682",
@@ -326,7 +326,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": null,
             "spf": null,
             "makeup size": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/H/C/HC-00006682-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359897887.jpg"
         }
     },
     "Body Care": {
@@ -347,7 +347,7 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "100% Natural, Cruelty-Free, Paraben-Free, Sulfate-Free, Natural Extracts",
             "spf": null,
             "makeup size": "500g",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/B/A/BAB-00004375-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359899058.jpg"
         }
     },
         
@@ -369,12 +369,8 @@ You are an expert assistant for Boutiqaat, a beauty and fashion store. Your task
             "preference": "Aloe Vera, Dermatologically Tested, Vitamin C",
             "spf": null,
             "makeup size": "15ml",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/s/c/sc-00003431-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850842359900100.jpg"
         }
     }
 }
 ```
-
----
-
-**Answer:**

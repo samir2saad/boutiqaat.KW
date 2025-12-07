@@ -13,7 +13,7 @@
             "perfume size": null,
             "fragrance family": null,
             "perfume notes": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000198573-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356118969.jpg"
         },
         "Lobby Home Freshener - 500ml": {
             "sku": "I-00000197900",
@@ -28,7 +28,7 @@
             "perfume size": "500ml",
             "fragrance family": "Floral",
             "perfume notes": "Rose, Jasmine, Lavender, Musk",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000197900-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356120007.jpg"
         },
         "Velouria Scented Gel - 40g": {
             "sku": "I-00000196124",
@@ -43,7 +43,7 @@
             "perfume size": "40g",
             "fragrance family": "Floral, Oriental",
             "perfume notes": "Patchouli, White Musk",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000196124-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356120707.jpg"
         },
         "27 All Over Spray - 100ml": {
             "sku": "I-00000195900",
@@ -58,7 +58,7 @@
             "perfume size": "100ml",
             "fragrance family": "Fruity, Floral, Fresh",
             "perfume notes": "Rose, Jasmine, Bergamot, Sandalwood, Amber, Leather, Vanilla, Patchouli, Musk, Cedarwood",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000195900-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356121649.jpg"
         },
         "Bakhor Mumassak - 40g": {
             "sku": "ORL-00007641",
@@ -73,7 +73,7 @@
             "perfume size": "40g",
             "fragrance family": null,
             "perfume notes": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007641-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356122395.jpg"
         },
         "Arag Oud Musqa Mamoul - 48g": {
             "sku": "ORL-00007620",
@@ -88,7 +88,7 @@
             "perfume size": "48g",
             "fragrance family": "Oriental",
             "perfume notes": "Oud, Leather",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007620-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356123011.jpg"
         },
         "Barrari Body Powder - 100g": {
             "sku": "ORL-00007577",
@@ -103,7 +103,7 @@
             "perfume size": "100g",
             "fragrance family": null,
             "perfume notes": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007577-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356123900.jpg"
         },
         "Perfume Bag - 5 pcs": {
             "sku": "ORL-00007529",
@@ -118,7 +118,7 @@
             "perfume size": null,
             "fragrance family": null,
             "perfume notes": null,
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007529-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356124440.jpg"
         },
         "Paradise Khamria - 2x15ml": {
             "sku": "ORL-00007492",
@@ -133,7 +133,7 @@
             "perfume size": "30ml",
             "fragrance family": "Floral, Oriental, Woody",
             "perfume notes": "Sandalwood, Musk, Oud",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007492-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356125110.jpg"
         }
     },
     "Eau de Parfum": {
@@ -150,7 +150,7 @@
             "perfume size": "100ml",
             "fragrance family": "Floral, Oriental",
             "perfume notes": "Patchouli, Musk",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007886-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356125669.jpg"
         },
         "Essence Of Elegance Aqua Blue Eau de Parfum - 100ml": {
             "sku": "ORL-00007751",
@@ -165,7 +165,7 @@
             "perfume size": "100ml",
             "fragrance family": "Floral, Woody",
             "perfume notes": "Rose, Vanilla, Citrus, Amber",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007751-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356126322.jpg"
         },
         "Shaghaf for Women Eau De Parfum - 75ml": {
             "sku": "ORL-00007687",
@@ -180,7 +180,7 @@
             "perfume size": "75ml",
             "fragrance family": "Woody, Fruity, Gourmand",
             "perfume notes": "Musk, Cedarwood",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007687-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356127181.jpg"
         },
         "Taled Eau de Parfum - 100ml": {
             "sku": "ORL-00007598",
@@ -195,7 +195,7 @@
             "perfume size": "100ml",
             "fragrance family": "Woody",
             "perfume notes": "Citrus, Amber",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007598-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356127984.jpg"
         },
         "Seraphina Eau de Parfum - 90ml": {
             "sku": "ORL-00007551",
@@ -210,7 +210,7 @@
             "perfume size": "90ml",
             "fragrance family": "Floral, Fruity, Gourmand",
             "perfume notes": "Jasmine, Vanilla, Musk, Bergamot",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007549-3_1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356129062.jpg"
         },
         "Zeleny Eau de Parfum - 100ml": {
             "sku": "ORL-00007453",
@@ -225,7 +225,7 @@
             "perfume size": "100ml",
             "fragrance family": "Floral, Fruity",
             "perfume notes": "Vanilla, Jasmine, Musk",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007453-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356129827.jpg"
         }
     },
     "Perfume Oil": {
@@ -242,7 +242,7 @@
             "perfume size": "12ml",
             "fragrance family": "Oriental, Woody",
             "perfume notes": "Rose, Jasmine, Vanilla, Bergamot, Sandalwood, Patchouli, Amber",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/O/R/ORL-00007709-R-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356130896.jpg"
         }
     },
     "Eau de Toilette": {
@@ -259,7 +259,7 @@
             "perfume size": "200ml",
             "fragrance family": "Fruity, Floral, Woody",
             "perfume notes": "Bergamot, Rose, Musk, Sandalwood",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000194442-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356131343.jpg"
         },
         "Danoré Light Fragrance - 200ml": {
             "sku": "I-00000194408",
@@ -274,7 +274,7 @@
             "perfume size": "200ml",
             "fragrance family": "Woody, Spicy",
             "perfume notes": "Bergamot, Lavender, Oud, Leather",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000194408-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356131899.jpg"
         },
         "Noorai Light Fragrance - 200ml": {
             "sku": "I-00000192350",
@@ -289,7 +289,7 @@
             "perfume size": "200ml",
             "fragrance family": "Fruity, Gourmand",
             "perfume notes": "Musk",
-            "image": "https://v2cdn.boutiqaat.com/media/catalog/product/I/-/I-00000192350-1.jpg"
+            "image": "https://realestatedemo.trypair.ai/upload/buildings/multi-image/1850843356132460.jpg"
         }
     }
 }
